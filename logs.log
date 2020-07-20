@@ -32,3 +32,87 @@
 2020-07-17 21:48:11,626 INFO WebDriverFactory [main] Открыта страница отус
 2020-07-17 21:48:11,631 INFO WebDriverFactory [main] Title страницы проверен
 2020-07-17 21:48:11,728 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 13:37:06,222 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 13:37:49,367 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 13:38:20,642 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 13:38:25,189 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 13:38:25,196 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 13:38:25,303 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 13:49:05,099 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 13:49:10,774 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 13:49:10,782 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 13:49:10,884 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 13:49:35,028 INFO WebDriverFactory [main] CHROME
+2020-07-20 13:49:35,354 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 13:49:44,698 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 13:49:44,708 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 13:49:44,814 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 13:51:41,315 INFO WebDriverFactory [main] CHROME
+2020-07-20 13:51:41,576 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 13:51:44,683 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 13:51:44,690 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 13:51:44,790 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:00:38,883 INFO WebDriverFactory [main] CHROME
+2020-07-20 14:00:39,195 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 14:00:43,680 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:00:43,689 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 14:00:43,794 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:21:03,072 INFO WebDriverFactory [main] CHROME
+2020-07-20 14:21:03,388 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 14:21:13,924 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:21:13,932 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 14:21:14,047 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:23:15,341 INFO WebDriverFactory [main] CHROME
+2020-07-20 14:23:15,785 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 14:23:19,624 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:23:19,740 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:23:57,754 INFO WebDriverFactory [main] CHROME
+2020-07-20 14:23:58,158 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 14:24:01,652 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:24:01,652 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 14:24:01,762 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:38:44,363 INFO WebDriverFactory [main] CHROME
+2020-07-20 14:38:44,703 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 14:38:49,374 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:38:49,375 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 14:38:49,480 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:39:10,075 INFO WebDriverFactory [main] FIREFOX
+2020-07-20 14:39:10,335 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 14:39:14,256 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:39:14,257 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 14:39:14,356 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 14:40:45,305 INFO WebDriverFactory [main] Драйвер Firefox поднят
+2020-07-20 14:40:53,044 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 14:40:53,044 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 14:40:55,578 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:08:22,790 INFO WebDriverFactory [main] Драйвер Firefox поднят
+2020-07-20 17:08:30,820 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:08:30,820 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:08:34,374 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:09:43,000 INFO WebDriverFactory [main] Драйвер Firefox поднят
+2020-07-20 17:09:51,973 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:09:51,973 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:09:55,489 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:10:08,259 INFO WebDriverFactory [main] Драйвер Firefox поднят
+2020-07-20 17:10:19,689 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:10:22,246 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:11:25,810 INFO WebDriverFactory [main] Драйвер Firefox поднят
+2020-07-20 17:11:33,856 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:11:33,861 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:11:37,357 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:12:06,617 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 17:12:10,625 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:12:10,632 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:12:10,733 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:13:58,938 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-20 17:14:07,123 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:14:07,130 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:14:07,234 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:14:27,567 INFO WebDriverFactory [main] Драйвер Safari поднят
+2020-07-20 17:14:33,039 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:14:33,058 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:14:33,165 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-20 17:18:08,229 INFO WebDriverFactory [main] Драйвер Safari поднят
+2020-07-20 17:18:11,660 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-20 17:18:11,693 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-20 17:18:11,783 INFO WebDriverFactory [main] Драйвер отключен
