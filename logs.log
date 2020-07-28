@@ -116,3 +116,31 @@
 2020-07-20 17:18:11,660 INFO WebDriverFactory [main] Открыта страница отус
 2020-07-20 17:18:11,693 INFO WebDriverFactory [main] Title страницы проверен
 2020-07-20 17:18:11,783 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-21 16:19:16,766 INFO WebDriverFactory [main] Драйвер Chrome поднят
+2020-07-21 16:19:22,590 INFO WebDriverFactory [main] Открыта страница отус
+2020-07-21 16:19:22,599 INFO WebDriverFactory [main] Title страницы проверен
+2020-07-21 16:19:22,707 INFO WebDriverFactory [main] Драйвер отключен
+2020-07-28 15:13:56,868 INFO YandexMarket [main] Драйвер поднят
+2020-07-28 15:14:17,783 INFO YandexMarket [main] Плашка появилась
+2020-07-28 15:14:18,922 INFO YandexMarket [main] Плашка появилась
+2020-07-28 15:14:21,371 INFO YandexMarket [main] В списке сравнения 2 товара
+2020-07-28 15:14:21,657 INFO YandexMarket [main] Нажиммем на Все характеристики
+2020-07-28 15:14:21,666 INFO YandexMarket [main] Позиция "Операционная система" отображается в списке
+2020-07-28 15:14:21,915 INFO YandexMarket [main] Нажиммем на Различающиеся характеристики
+2020-07-28 15:14:26,955 INFO YandexMarket [main] Позиция "Операционная система" в списке отсутствует
+2020-07-28 15:15:52,952 INFO YandexMarket [main] Драйвер поднят
+2020-07-28 15:22:53,992 INFO YandexMarket [main] Драйвер поднят
+2020-07-28 15:23:05,211 INFO YandexMarket [main] Переходим в раздел Электроника
+2020-07-28 15:23:10,647 INFO YandexMarket [main] Переходим в раздел Мобильные
+2020-07-28 15:23:11,390 INFO YandexMarket [main] Сортируем по HUAWEI и Xiaomi
+2020-07-28 15:23:11,911 INFO YandexMarket [main] Сортируем по цене
+2020-07-28 15:23:15,301 INFO YandexMarket [main] Добавляем в сравнение HUAWEI
+2020-07-28 15:23:15,723 INFO YandexMarket [main] Плашка появилась
+2020-07-28 15:23:15,967 INFO YandexMarket [main] Добавляем в сравнение Xiaomi
+2020-07-28 15:23:16,403 INFO YandexMarket [main] Плашка появилась
+2020-07-28 15:23:18,711 INFO YandexMarket [main] Переходим в раздел Сравнение
+2020-07-28 15:23:18,732 INFO YandexMarket [main] В списке сравнения 2 товара
+2020-07-28 15:23:19,020 INFO YandexMarket [main] Нажимаем на Все характеристики
+2020-07-28 15:23:19,026 INFO YandexMarket [main] Позиция "Операционная система" отображается в списке
+2020-07-28 15:23:19,260 INFO YandexMarket [main] Нажимаем на Различающиеся характеристики
+2020-07-28 15:23:24,273 INFO YandexMarket [main] Позиция "Операционная система" в списке отсутствует
